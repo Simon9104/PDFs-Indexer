@@ -1,0 +1,5 @@
+chromadb
+sentence-transformers
+PyMuPDF
+PyQt6
+pyinstaller

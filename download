@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# App Data
+vector_search_db_simple/
+chroma_db/
+
+# Build
+build/
+dist/
+*.spec
